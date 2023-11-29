@@ -1,4 +1,4 @@
-# 💻 Repositório do CS50:
+# 💻 Repositório do CS50
 
 Fala rpzd, vou (tentar) manter esse repositório com anotações e exercícios feitos durante o curso CS50. 
 
