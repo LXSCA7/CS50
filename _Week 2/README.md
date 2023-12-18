@@ -5,6 +5,7 @@ Aqui estão os exercícios da semana 2, todos os Practice Problems, Lab 2 e o Pr
 ## 📜 Arquivos
 Os exercícios que estão nesse repositório são: 
 
+- scrabble
 - hours
 - no-vowels
 - password
